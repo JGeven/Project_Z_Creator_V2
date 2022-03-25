@@ -1,0 +1,6 @@
+C:\Users\Joshua Geven\Documents\Fontys\Semester 2 (S)\Project_Z_Creator\Project-Z-Creator\Project Z Creator\obj\Debug\Project Z Creator.csproj.AssemblyReference.cache
+C:\Users\Joshua Geven\Documents\Fontys\Semester 2 (S)\Project_Z_Creator\Project-Z-Creator\Project Z Creator\obj\Debug\Project Z Creator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joshua Geven\Documents\Fontys\Semester 2 (S)\Project_Z_Creator\Project-Z-Creator\Project Z Creator\obj\Debug\Project_Z_Creator.Mainscreen.resources
+C:\Users\Joshua Geven\Documents\Fontys\Semester 2 (S)\Project_Z_Creator\Project-Z-Creator\Project Z Creator\obj\Debug\Project_Z_Creator.Properties.Resources.resources
+C:\Users\Joshua Geven\Documents\Fontys\Semester 2 (S)\Project_Z_Creator\Project-Z-Creator\Project Z Creator\obj\Debug\Project Z Creator.csproj.GenerateResource.cache
+C:\Users\Joshua Geven\Documents\Fontys\Semester 2 (S)\Project_Z_Creator\Project-Z-Creator\Project Z Creator\obj\Debug\Project Z Creator.csproj.CoreCompileInputs.cache
